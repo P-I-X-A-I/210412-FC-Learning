@@ -1,0 +1,6 @@
+﻿  210412-FC-Learning.cpp
+c:\users\wtnbks\desktop\210412-fc-learning\210412-fc-learning\210412-fc-learning\210412-fc-learning.cpp(112): error C2248: 'mainController::mainController': private メンバー (クラス 'mainController' で宣言されている) にアクセスできません。
+  c:\users\wtnbks\desktop\210412-fc-learning\210412-fc-learning\210412-fc-learning\maincontroller.h(4): note: 'mainController::mainController' の宣言を確認してください
+  c:\users\wtnbks\desktop\210412-fc-learning\210412-fc-learning\210412-fc-learning\maincontroller.h(2): note: 'mainController' の宣言を確認してください
+  mainController.cpp
+  コードを生成中...
